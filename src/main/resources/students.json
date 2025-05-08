@@ -1,0 +1,6 @@
+[{"id":"123","name":"Anna","disciplines":
+[{"discipline":{"name":"Math","grade":0.0},"grade":100.0}]},
+  {"id":"456","name":"Maksim","disciplines":
+  [{"discipline":{"name":"English","grade":0.0},"grade":78.0}]},
+  {"id":"789","name":"Milena","disciplines":
+[{"discipline":{"name":"English","grade":0.0},"grade":99.0}]}]
